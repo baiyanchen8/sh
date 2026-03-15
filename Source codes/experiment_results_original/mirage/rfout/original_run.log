@@ -1,0 +1,63 @@
+Device: cuda
+
+=== Round 1/20 ===
+ACC=8.87% ASR=31.68%
+
+=== Round 2/20 ===
+ACC=11.42% ASR=54.93%
+
+=== Round 3/20 ===
+ACC=13.06% ASR=63.90%
+
+=== Round 4/20 ===
+ACC=15.36% ASR=59.80%
+
+=== Round 5/20 ===
+ACC=17.48% ASR=58.86%
+
+=== Round 6/20 ===
+ACC=20.11% ASR=55.67%
+
+=== Round 7/20 ===
+ACC=22.71% ASR=56.09%
+
+=== Round 8/20 ===
+ACC=26.06% ASR=50.00%
+
+=== Round 9/20 ===
+ACC=29.21% ASR=46.42%
+
+=== Round 10/20 ===
+ACC=30.91% ASR=47.11%
+
+=== Round 11/20 ===
+ACC=34.46% ASR=41.78%
+
+=== Round 12/20 ===
+ACC=36.21% ASR=41.79%
+
+=== Round 13/20 ===
+ACC=38.43% ASR=39.87%
+
+=== Round 14/20 ===
+ACC=40.80% ASR=37.48%
+
+=== Round 15/20 ===
+ACC=42.39% ASR=36.69%
+
+=== Round 16/20 ===
+ACC=46.17% ASR=30.50%
+
+=== Round 17/20 ===
+ACC=48.06% ASR=29.06%
+
+=== Round 18/20 ===
+ACC=49.07% ASR=28.40%
+
+=== Round 19/20 ===
+ACC=50.00% ASR=28.96%
+
+=== Round 20/20 ===
+ACC=51.62% ASR=27.14%
+
+Saved Mirage + RFOut results successfully.

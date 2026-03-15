@@ -1,0 +1,188 @@
+{
+  "dataset": "cifar10",
+  "attack": "capsulebd",
+  "defense": "fedavg",
+  "rounds": 20,
+  "results": [
+    {
+      "round": 1,
+      "acc": 26.22,
+      "asr": 99.71111111111111,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.979634046554565,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 2,
+      "acc": 58.38,
+      "asr": 95.44444444444444,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 12.691415071487427,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 3,
+      "acc": 69.05,
+      "asr": 93.73333333333333,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.75431489944458,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 4,
+      "acc": 72.32,
+      "asr": 94.28888888888889,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.865378379821777,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 5,
+      "acc": 74.95,
+      "asr": 94.5111111111111,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.81697964668274,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 6,
+      "acc": 76.2,
+      "asr": 95.51111111111112,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.769168138504028,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 7,
+      "acc": 77.03,
+      "asr": 96.17777777777778,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.768827676773071,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 8,
+      "acc": 78.16,
+      "asr": 96.23333333333333,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.716063022613525,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 9,
+      "acc": 79.03,
+      "asr": 96.16666666666667,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 12.582263231277466,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 10,
+      "acc": 79.43,
+      "asr": 96.91111111111111,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.667115211486816,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 11,
+      "acc": 80.29,
+      "asr": 96.83333333333334,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.755173921585083,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 12,
+      "acc": 81.14,
+      "asr": 96.6888888888889,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.787935972213745,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 13,
+      "acc": 81.48,
+      "asr": 96.9888888888889,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.89083743095398,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 14,
+      "acc": 81.83,
+      "asr": 97.4888888888889,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.923177719116211,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 15,
+      "acc": 82.24,
+      "asr": 97.3,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.870544195175171,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 16,
+      "acc": 82.51,
+      "asr": 97.55555555555556,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 12.024836778640747,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 17,
+      "acc": 82.42,
+      "asr": 97.92222222222222,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.780333280563354,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 18,
+      "acc": 82.91,
+      "asr": 97.89999999999999,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.735385179519653,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 19,
+      "acc": 83.41,
+      "asr": 97.74444444444444,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 11.817132234573364,
+      "t_entropy_mad_sec": 0.0
+    },
+    {
+      "round": 20,
+      "acc": 83.43,
+      "asr": 97.94444444444444,
+      "benign_drop_rate": 0.0,
+      "server_queries": 8000,
+      "t_infer_sec": 12.429054021835327,
+      "t_entropy_mad_sec": 0.0
+    }
+  ]
+}

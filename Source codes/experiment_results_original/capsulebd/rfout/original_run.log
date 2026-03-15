@@ -1,0 +1,63 @@
+Device: cuda
+
+=== Round 1/20 ===
+ACC=10.89% ASR=39.84%
+
+=== Round 2/20 ===
+ACC=15.00% ASR=45.83%
+
+=== Round 3/20 ===
+ACC=19.63% ASR=45.64%
+
+=== Round 4/20 ===
+ACC=25.10% ASR=42.52%
+
+=== Round 5/20 ===
+ACC=30.89% ASR=36.88%
+
+=== Round 6/20 ===
+ACC=35.66% ASR=36.01%
+
+=== Round 7/20 ===
+ACC=39.82% ASR=34.19%
+
+=== Round 8/20 ===
+ACC=43.89% ASR=31.24%
+
+=== Round 9/20 ===
+ACC=46.94% ASR=30.00%
+
+=== Round 10/20 ===
+ACC=50.32% ASR=27.19%
+
+=== Round 11/20 ===
+ACC=52.68% ASR=26.72%
+
+=== Round 12/20 ===
+ACC=54.98% ASR=25.54%
+
+=== Round 13/20 ===
+ACC=57.33% ASR=23.45%
+
+=== Round 14/20 ===
+ACC=59.03% ASR=22.74%
+
+=== Round 15/20 ===
+ACC=60.69% ASR=21.30%
+
+=== Round 16/20 ===
+ACC=62.41% ASR=19.79%
+
+=== Round 17/20 ===
+ACC=63.34% ASR=20.45%
+
+=== Round 18/20 ===
+ACC=64.24% ASR=20.37%
+
+=== Round 19/20 ===
+ACC=65.33% ASR=19.39%
+
+=== Round 20/20 ===
+ACC=66.63% ASR=18.22%
+
+Saved CapsuleBD + RFOut results successfully.

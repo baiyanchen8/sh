@@ -1,0 +1,144 @@
+Device: cuda
+
+=== Round 1/20 ===
+Client 0: ASR=11.65% norm=322.24
+Client 1: ASR=9.55% norm=322.23
+Client 2: ASR=37.30% norm=858.74
+Flagged: {2}
+Round 1 done in 26.7s | ACC=67.78% ASR=10.62%
+
+=== Round 2/20 ===
+Client 0: ASR=11.05% norm=322.01
+Client 1: ASR=10.70% norm=322.01
+Client 2: ASR=39.80% norm=858.66
+Flagged: {2}
+Round 2 done in 25.8s | ACC=74.99% ASR=10.44%
+
+=== Round 3/20 ===
+Client 0: ASR=10.90% norm=322.01
+Client 1: ASR=10.20% norm=322.01
+Client 2: ASR=35.30% norm=858.66
+Flagged: {2}
+Round 3 done in 25.9s | ACC=77.78% ASR=10.21%
+
+=== Round 4/20 ===
+Client 0: ASR=10.40% norm=322.01
+Client 1: ASR=10.25% norm=322.01
+Client 2: ASR=37.60% norm=858.66
+Flagged: {2}
+Round 4 done in 26.0s | ACC=79.28% ASR=10.47%
+
+=== Round 5/20 ===
+Client 0: ASR=10.55% norm=322.00
+Client 1: ASR=9.95% norm=322.01
+Client 2: ASR=32.65% norm=858.66
+Flagged: {2}
+Round 5 done in 26.0s | ACC=80.71% ASR=10.24%
+
+=== Round 6/20 ===
+Client 0: ASR=10.50% norm=322.01
+Client 1: ASR=10.65% norm=322.01
+Client 2: ASR=33.80% norm=858.66
+Flagged: {2}
+Round 6 done in 26.1s | ACC=81.68% ASR=10.48%
+
+=== Round 7/20 ===
+Client 0: ASR=11.10% norm=322.00
+Client 1: ASR=9.80% norm=322.01
+Client 2: ASR=33.75% norm=858.66
+Flagged: {2}
+Round 7 done in 25.9s | ACC=82.30% ASR=10.23%
+
+=== Round 8/20 ===
+Client 0: ASR=10.45% norm=322.01
+Client 1: ASR=10.90% norm=322.01
+Client 2: ASR=31.10% norm=858.66
+Flagged: {2}
+Round 8 done in 25.8s | ACC=82.70% ASR=10.28%
+
+=== Round 9/20 ===
+Client 0: ASR=10.70% norm=322.00
+Client 1: ASR=11.05% norm=322.01
+Client 2: ASR=30.35% norm=858.66
+Flagged: {2}
+Round 9 done in 26.1s | ACC=83.48% ASR=10.48%
+
+=== Round 10/20 ===
+Client 0: ASR=10.65% norm=322.01
+Client 1: ASR=10.70% norm=322.01
+Client 2: ASR=29.00% norm=858.66
+Flagged: {2}
+Round 10 done in 26.0s | ACC=83.68% ASR=10.33%
+
+=== Round 11/20 ===
+Client 0: ASR=11.00% norm=322.00
+Client 1: ASR=10.55% norm=322.01
+Client 2: ASR=33.80% norm=858.66
+Flagged: {2}
+Round 11 done in 26.0s | ACC=84.03% ASR=10.31%
+
+=== Round 12/20 ===
+Client 0: ASR=10.55% norm=322.01
+Client 1: ASR=10.70% norm=322.01
+Client 2: ASR=28.65% norm=858.66
+Flagged: {2}
+Round 12 done in 26.1s | ACC=84.02% ASR=10.17%
+
+=== Round 13/20 ===
+Client 0: ASR=10.60% norm=322.01
+Client 1: ASR=10.70% norm=322.01
+Client 2: ASR=30.65% norm=858.66
+Flagged: {2}
+Round 13 done in 26.2s | ACC=84.64% ASR=10.31%
+
+=== Round 14/20 ===
+Client 0: ASR=10.85% norm=322.01
+Client 1: ASR=10.40% norm=322.01
+Client 2: ASR=32.35% norm=858.66
+Flagged: {2}
+Round 14 done in 26.0s | ACC=84.80% ASR=10.31%
+
+=== Round 15/20 ===
+Client 0: ASR=10.65% norm=322.00
+Client 1: ASR=10.40% norm=322.01
+Client 2: ASR=39.15% norm=858.66
+Flagged: {2}
+Round 15 done in 26.1s | ACC=85.02% ASR=10.35%
+
+=== Round 16/20 ===
+Client 0: ASR=10.85% norm=322.00
+Client 1: ASR=10.10% norm=322.01
+Client 2: ASR=30.80% norm=858.66
+Flagged: {2}
+Round 16 done in 26.0s | ACC=85.07% ASR=10.32%
+
+=== Round 17/20 ===
+Client 0: ASR=11.00% norm=322.01
+Client 1: ASR=10.50% norm=322.01
+Client 2: ASR=33.30% norm=858.65
+Flagged: {2}
+Round 17 done in 26.1s | ACC=85.29% ASR=10.45%
+
+=== Round 18/20 ===
+Client 0: ASR=10.75% norm=322.01
+Client 1: ASR=10.60% norm=322.01
+Client 2: ASR=29.00% norm=858.66
+Flagged: {2}
+Round 18 done in 26.0s | ACC=85.41% ASR=10.43%
+
+=== Round 19/20 ===
+Client 0: ASR=10.85% norm=322.01
+Client 1: ASR=10.10% norm=322.01
+Client 2: ASR=34.50% norm=858.66
+Flagged: {2}
+Round 19 done in 26.5s | ACC=85.51% ASR=10.42%
+
+=== Round 20/20 ===
+Client 0: ASR=10.65% norm=322.00
+Client 1: ASR=10.60% norm=322.01
+Client 2: ASR=34.75% norm=858.66
+Flagged: {2}
+Round 20 done in 26.2s | ACC=85.49% ASR=10.49%
+
+Saved outputs/model_cifar.pth, outputs/metrics_cifar.json
+Approx total runtime: 8.69 minutes

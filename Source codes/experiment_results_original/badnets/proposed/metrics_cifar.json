@@ -1,0 +1,11 @@
+[
+  {
+    "round": 20,
+    "acc": 86.19,
+    "asr": 9.85,
+    "benign_drop_rate": 0.5,
+    "server_queries": 6000,
+    "t_infer_sec": 2.7897894382476807,
+    "t_entropy_mad_sec": 4.601478576660156e-05
+  }
+]
