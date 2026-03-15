@@ -1,7 +1,0 @@
-Device: cuda
-
-=== Round 1/20 ===
-Traceback (most recent call last):
-  File "/home/server/baiyan8/sharon/myversion/badnets/badnets_cifar_fltrust.py", line 232, in <module>
-    t_inf += time.time() - ti
-NameError: name 't_inf' is not defined
